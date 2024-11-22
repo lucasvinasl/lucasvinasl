@@ -7,7 +7,7 @@
 
 ## About me:
 
-I'm an Electrical Engineering Student. Currently developing my knowledge in the area of ​​analysis and data science. I identify a lot with the branch and I think about migrating careers. :smile:
+I'm an Electrical Engineering. Currently developing my knowledge in the area of ​​analysis/data science and software development. I identify a lot with the branch and I think about migrating careers. :smile:
 
 ## My specialties:
 
