@@ -1,22 +1,52 @@
+# Hi, I'm Lucas Vinícius! 👨‍💻⚡
 
-# Hi, I'm Lucas!
+[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/lucasvinasl)](https://github.com/lucasvinasl)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-vinicius-ctec/)](https://www.linkedin.com/in/lucas-vinicius-ctec/)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/@LAGOM-Engenharia)](https://www.youtube.com/@LAGOM-Engenharia)
 
-[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/lucasvinasl)](https://github.com/lucasvinasl)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-vinicius-ctec/)](https://www.linkedin.com/in/lucas-vinicius-ctec/)
-[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/@LAGOM-Engenharia)](https://www.youtube.com/@LAGOM-Engenharia)
+---
 
-## About me:
+## 👋 About me
 
-I'm an Electrical Engineering. Currently developing my knowledge in the area of ​​analysis/data science and software development. I identify a lot with the branch and I think about migrating careers. :smile:
+I'm **Lucas Vinícius**, a 26 years old developer from **Mossoró, Brazil**.
 
-## My specialties:
+I hold a **Bachelor’s degree in Electrical Engineering** from **UFERSA**, along with a **Bachelor’s degree in Science and Technology** and a **Technical degree in Electrotechnics**.
 
-### Languages: <img src="https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/JAVA-ED8800?style=for-the-badge&logo=java&logocoler=white"/>
+Currently, I work as a **Junior Backend Developer** specializing in **Java and the Spring Boot ecosystem**. I have previous experience in solar energy companies, where I worked on both **administrative/commercial** tasks and **technical engineering responsibilities**.
 
-### Others: <img src="https://img.shields.io/badge/MatLab-%230db7ed.svg?&style=for-the-badge&logo=&logoColor=white"/>
+Driven by my passion for technology, I decided to transition into software development — always aiming to blend my engineering background with modern programming practices.
 
-## I'm still in the learning process, but what's not missing is the desire to improve more every day. 😁
+---
 
-[![peguimasid github stats](https://github-readme-stats.vercel.app/api?username=lucasvinasl&show_icons=true&title_color=fff&icon_color=37aaff&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/lucasvinasl)
+## 🛠️ Technologies & Tools
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvinasl&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/lucasvinasl)
+### Languages & Frameworks
+
+![Java](https://img.shields.io/badge/Java-ED8800?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MatLab-%230db7ed.svg?style=for-the-badge&logo=mathworks&logoColor=white)
+
+### Tools & Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🚀 Still learning...
+
+I'm constantly improving my skills as a developer, diving deeper into software architecture, clean code practices, and database management. The goal is to grow every day and deliver quality through code. 😁
+
+---
+
+## 📊 GitHub Stats
+
+[![lucasvinasl GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasvinasl&show_icons=true&theme=dracula&count_private=true)](https://github.com/lucasvinasl)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvinasl&layout=compact&theme=dracula&hide=html)](https://github.com/lucasvinasl)
+
+---
+
+## 💡 “Engineering solves problems. Programming automates them.” 🚀
