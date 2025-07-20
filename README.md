@@ -41,12 +41,4 @@ I'm constantly improving my skills as a developer, diving deeper into software a
 
 ---
 
-## 📊 GitHub Stats
-
-[![lucasvinasl GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasvinasl&show_icons=true&theme=dracula&count_private=true)](https://github.com/lucasvinasl)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvinasl&layout=compact&theme=dracula&hide=html)](https://github.com/lucasvinasl)
-
----
-
-## 💡 “Engineering solves problems. Programming automates them.” 🚀
+## 💡 “Engineering solves problems. Programming automates them. I'm both!” 🚀
