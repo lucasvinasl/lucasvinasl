@@ -8,9 +8,9 @@
 
 ## 👋 About me
 
-I'm **Lucas Vinícius**, a 26 years old developer from **Mossoró, Brazil**.
+I'm **Lucas Vinícius**, a 27 years old developer from **Mossoró, Brazil**.
 
-I hold a **Bachelor’s degree in Electrical Engineering** from **UFERSA**, along with a **Bachelor’s degree in Science and Technology** and a **Technical degree in Electrotechnics**.
+I'm a **Bachelor’s degree in Electrical Engineering** from **UFERSA**, along with a **Bachelor’s degree in Science and Technology** and a **Technical degree in Electrotechnics**.
 
 Currently, I work as a **Junior Backend Developer** specializing in **Java and the Spring Boot ecosystem**. I have previous experience in solar energy companies, where I worked on both **administrative/commercial** tasks and **technical engineering responsibilities**.
 
